@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main> should render the heading 1`] = `
+.c0 {
+  background-color: #ffebcd;
+  color: #1c1c1c;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding: 3rem;
+}
+
+.c1 {
+  width: min(25rem,100%);
+  margin-bottom: 2rem;
+}
+
+.c2 {
+  font-size: 2.5rem;
+}
+
+.c3 {
+  font-size: 2rem;
+  font-wiight: 400;
+}
+
+.c4 {
+  width: min(30rem,100%);
+  margin-top: 2.5rem;
+}
+
+<main
+  class="c0"
+>
+  <img
+    alt="circulo preenchido da cor preta com a letra N sem serifa vasada"
+    class="c1"
+    src="/img/3Logos.png"
+  />
+  <h1
+    class="c2"
+  >
+    Boilerplate
+  </h1>
+  <h2
+    class="c3"
+  >
+    Typescript, React.js, Next.js and Styled Components
+  </h2>
+  <img
+    alt="desenho de gatinho cinza feliz sorrindo e acenando, com chapéu de aniversário"
+    class="c4"
+    src="/img/gatinhoAniversário.gif"
+  />
+</main>
+`;
