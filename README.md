@@ -63,6 +63,9 @@ run `npm run dev` again, to populate`tsconfig.json`
 ### Install Webpack5
 ` npm install webpack@5`
 
+### Create a next-app using the boilerplate:
+` npx create-next-app -e https://github.com/Jeefelix/boilerplate`
+
 ## SETUP TESTS
 
 ### Install Jest

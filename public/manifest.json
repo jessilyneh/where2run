@@ -1,6 +1,6 @@
 {
-  "name": "Boilerplate frontend",
-  "short_name": "Boilerplate",
+  "name": "Where to run",
+  "short_name": "Where2run",
   "icons": [
     {
       "src": "/img/pusheeen-192.png",
@@ -14,8 +14,8 @@
       "sizes": "512x512"
     }
   ],
-  "background_color": "#ffebcd",
-  "description": "A simple project starter to work with TypeScript, React, NextJS and Styled Components",
+  "background_color": "#bedaef",
+  "description": "A guide to find places to run and tell your histories",
   "display": "fullscreen",
   "start_url": "/",
   "theme_color": "#ffebcd"
