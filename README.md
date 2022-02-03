@@ -3,7 +3,7 @@
 
 ### Project status:
 <h4>
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
+![50%](https://progress-bar.dev/10)
 </h4>
 
 ## Project
