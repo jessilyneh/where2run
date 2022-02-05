@@ -31,6 +31,12 @@ http://localhost:3000
 ### Create a next-app using the boilerplate:
 ` npx create-next-app -e https://github.com/Jeefelix/boilerplate`
 
+### Install Leaflet and React Leaflet
+`npm install leadlet react-leaflet`
+
+### Install type definitions from Leaflet
+`npm instal --include=dev @types/leaflet`
+
 ## SETUP TESTS
 
 <a href= "https://github.com/testing-library/react-testing-library/blob/main/other/cheat-sheet.pdf"><h3>🐐 CheatSheet Test Library</h3></a>
