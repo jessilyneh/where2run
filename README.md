@@ -2,7 +2,7 @@
 <p>A guide to find places to run and tell your histories</p>
 
 ### Project status:
-![15%](https://progress-bar.dev/15)
+![20%](https://progress-bar.dev/20)
 
 ## Project
 
