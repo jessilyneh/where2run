@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@babel/preset-typescript": "^7.16.7",
+    "@styled-icons/fa-solid": "^10.34.0",
     "@types/jest": "^27.4.0",
     "@types/leaflet": "^1.7.9",
     "jest": "^27.4.7",
