@@ -1,5 +1,9 @@
 # Where to run (where2run)
-<p>A guide to find places to run and tell your histories</p>
+<h3>A guide to find places to run and tell your histories.</h3>
+<p>Races are not just speed or distance statistics, each one tells a story.<br/>
+Where did you go running? what happened on the way?<br/>
+<b>Where2Run</b> is to record these moments, providing a visual diary of your runs and encouraging you to live new experiences,<br/>
+filling your map with photos and stories, or simply making a guide to the places you would like to run.</p>
 
 ### Project status:
 ![40%](https://progress-bar.dev/40)
@@ -18,32 +22,57 @@ npm run dev
 http://localhost:3000
 ```
 
-### Build projetc:
-`npm rum build`
+```sh
+npm run dev
+```
+
+### Build project:
+```sh
+npm rum build
+```
 
 ### Start build project:
-`npm start`
+```sh
+npm start
+```
 
 ### Run tests:
-`npm test`<br/>
-`npm run test:watch`
+```sh
+npm test
+```
+#### watch mode
+```sh
+npm run test:watch
+```
 
 ### Run eslint
-`eslint src`
+```sh
+eslint src
+```
 
 ### Fix files
-`eslint src --fix`
+```sh
+eslint src --fix
+```
 
 ## SETUP TECHNOLOGIES
 
 ### Create a next-app using the boilerplate:
-` npx create-next-app -e https://github.com/Jeefelix/boilerplate`
+
+```sh
+npx create-next-app -e https://github.com/Jeefelix/boilerplate
+```
 
 ### Install Leaflet and React Leaflet
-`npm install leadlet react-leaflet`
+
+```sh
+npm install leadlet react-leaflet
+```
 
 ### Install type definitions from Leaflet
-`npm instal --include=dev @types/leaflet`
+```sh
+npm instal --include=dev @types/leaflet
+```
 
 ## SETUP TESTS
 
