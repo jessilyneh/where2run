@@ -4,38 +4,63 @@
 ### Project status:
 ![40%](https://progress-bar.dev/40)
 
-## Project
+## Project 
 
 ### Run project locally:
-`npm run dev`<br/>
+
+```sh
+npm run dev
+```
+#### server
 http://localhost:3000
 
-### Build projetc:
-`npm rum build`
+### Build project:
+```sh
+npm rum build
+```
 
 ### Start build project:
-`npm start`
+```sh
+npm start
+```
 
 ### Run tests:
-`npm test`<br/>
-`npm run test:watch`
+```sh
+npm test
+```
+#### watch mode
+```sh
+npm run test:watch
+```
 
 ### Run eslint
-`eslint src`
+```sh
+eslint src
+```
 
 ### Fix files
-`eslint src --fix`
+```sh
+eslint src --fix
+```
 
 ## SETUP TECHNOLOGIES
 
 ### Create a next-app using the boilerplate:
-` npx create-next-app -e https://github.com/Jeefelix/boilerplate`
+
+```sh
+npx create-next-app -e https://github.com/Jeefelix/boilerplate
+```
 
 ### Install Leaflet and React Leaflet
-`npm install leadlet react-leaflet`
+
+```sh
+npm install leadlet react-leaflet
+```
 
 ### Install type definitions from Leaflet
-`npm instal --include=dev @types/leaflet`
+```sh
+npm instal --include=dev @types/leaflet
+```
 
 ## SETUP TESTS
 
