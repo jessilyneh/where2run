@@ -6,13 +6,11 @@
 
 ## Project 
 
-### Run project locally:
+### Run project locally (http://localhost:3000) :
 
 ```sh
 npm run dev
 ```
-#### server
-http://localhost:3000
 
 ### Build project:
 ```sh
