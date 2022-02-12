@@ -6,7 +6,7 @@ Where did you go running? what happened on the way?<br/>
 filling your map with photos and stories, or simply making a guide to the places you would like to run.</p>
 
 ### Project status:
-![40%](https://progress-bar.dev/40)
+![50%](https://progress-bar.dev/50)
 
 ## Project
 
@@ -15,22 +15,17 @@ filling your map with photos and stories, or simply making a guide to the places
 ```sh
 npm run dev
 ```
-#### urls dev
+
+#### server and pages
+
+```sh
+http://localhost:3000
+```
 ```sh
 http://localhost:3000/terms-of-service
 ```
 ```sh
 http://localhost:3000/about
-```
-
-#### server
-
-```sh
-http://localhost:3000
-```
-
-```sh
-npm run dev
 ```
 
 ### Build project:
