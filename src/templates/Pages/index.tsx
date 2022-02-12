@@ -2,7 +2,7 @@ import LinkWrapper from "components/LinkWrapper";
 import { WindowClose } from "@styled-icons/fa-solid/WindowClose";
 import * as S from "./styles";
 
-const AboutTemplate = () => (
+const PageTemplate = () => (
   <S.Content>
     <LinkWrapper href={"/"}>
       <WindowClose size={32} />
@@ -13,4 +13,5 @@ const AboutTemplate = () => (
     </S.Body>
   </S.Content>
 );
-export default AboutTemplate;
+
+export default PageTemplate;
