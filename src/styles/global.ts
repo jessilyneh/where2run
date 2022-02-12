@@ -3,9 +3,9 @@ import { createGlobalStyle } from "styled-components";
 const GlobalStyles = createGlobalStyle`
 
 :root {
-  --highlight: #761F14;
-  --background: #bedaef;
-  --black: #505050;
+  --highlight: #F7931E;
+  --background: #05445E;
+  --white: #ffffff;
   --container: 100rem;
   --small: 1.5rem;
   --medium: 3rem;
@@ -24,7 +24,7 @@ html {
 html, body, #__next {
   height: 100%;
   background: var(--background);
-  color: var(--black);
+  color: var(--white);
 }
 
 body {

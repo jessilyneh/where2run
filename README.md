@@ -15,6 +15,13 @@ filling your map with photos and stories, or simply making a guide to the places
 ```sh
 npm run dev
 ```
+#### urls dev
+```sh
+http://localhost:3000/terms-of-service
+```
+```sh
+http://localhost:3000/about
+```
 
 #### server
 

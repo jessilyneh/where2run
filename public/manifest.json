@@ -14,9 +14,9 @@
       "sizes": "512x512"
     }
   ],
-  "background_color": "#bedaef",
+  "background_color": "#05445E",
   "description": "A guide to find places to run and tell your histories",
   "display": "fullscreen",
   "start_url": "/",
-  "theme_color": "#ffebcd"
+  "theme_color": "#F7931E"
 }
