@@ -1,5 +1,9 @@
 # Where to run (where2run)
-<p>A guide to find places to run and tell your histories</p>
+<h3>A guide to find places to run and tell your histories.</h3>
+<p>Races are not just speed or distance statistics, each one tells a story.<br/>
+Where did you go running? what happened on the way?<br/>
+<b>Where2Run</b> is to record these moments, providing a visual diary of your runs and encouraging you to live new experiences,<br/>
+filling your map with photos and stories, or simply making a guide to the places you would like to run.</p>
 
 ### Project status:
 ![40%](https://progress-bar.dev/40)
