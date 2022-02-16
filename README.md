@@ -76,6 +76,20 @@ npm install leadlet react-leaflet
 npm instal --include=dev @types/leaflet
 ```
 
+### Install Graphql CodeGen
+```sh
+npm install --save-dev @graphql-codegen/cli
+```
+
+#### Init CodeGen
+```sh
+npx graphql-codegen init
+```
+#### install plugins
+```sh
+npm run codegen
+```
+
 ## SETUP TESTS
 
 <a href= "https://github.com/testing-library/react-testing-library/blob/main/other/cheat-sheet.pdf"><h3>🐐 CheatSheet Test Library</h3></a>
