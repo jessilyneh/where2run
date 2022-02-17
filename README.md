@@ -21,12 +21,25 @@ npm run dev
 ```sh
 http://localhost:3000
 ```
+<details><sumary><b>pages<b/><sumary/>
+<div>
 ```sh
 http://localhost:3000/terms-of-service
 ```
 ```sh
 http://localhost:3000/about
 ```
+```sh
+http://localhost:3000/place/minhocao
+```
+```sh
+http://localhost:3000/place/ega-marina
+```
+```sh
+http://localhost:3000/place/maspalomas
+```
+<div/>
+<details/>
 
 ### Build project:
 ```sh
