@@ -6,7 +6,7 @@ Where did you go running? what happened on the way?<br/>
 filling your map with photos and stories, or simply making a guide to the places you would like to run.</p>
 
 ### Project status:
-![50%](https://progress-bar.dev/50)
+![60%](https://progress-bar.dev/60)
 
 ## Project
 
@@ -16,30 +16,27 @@ filling your map with photos and stories, or simply making a guide to the places
 npm run dev
 ```
 
-#### server and pages
+#### server
 
 ```sh
 http://localhost:3000
 ```
-<details><sumary><b>pages<b/><sumary/>
-<div>
-```sh
-http://localhost:3000/terms-of-service
-```
-```sh
-http://localhost:3000/about
-```
-```sh
-http://localhost:3000/place/minhocao
-```
-```sh
-http://localhost:3000/place/ega-marina
-```
-```sh
-http://localhost:3000/place/maspalomas
-```
-<div/>
-<details/>
+
+---
+
+<details><summary><b> pages</b></summary>
+<p>
+
+- http://localhost:3000/terms-of-service
+- http://localhost:3000/about
+- http://localhost:3000/place/minhocao
+- http://localhost:3000/place/ega-marina
+- http://localhost:3000/place/maspalomas
+
+</p>
+</details>
+
+---
 
 ### Build project:
 ```sh
