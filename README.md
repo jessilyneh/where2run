@@ -6,7 +6,7 @@ Where did you go running? what happened on the way?<br/>
 filling your map with photos and stories, or simply making a guide to the places you would like to run.</p>
 
 ### Project status:
-![60%](https://progress-bar.dev/60)
+![70%](https://progress-bar.dev/70)
 
 ## Project
 
