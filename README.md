@@ -5,8 +5,8 @@ Where did you go running? what happened on the way?<br/>
 <b>Where2Run</b> is to record these moments, providing a visual diary of your runs and encouraging you to live new experiences,<br/>
 filling your map with photos and stories, or simply making a guide to the places you would like to run.</p>
 
-### Project status:
-![70%](https://progress-bar.dev/70)
+### Project status (V1):
+![80%](https://progress-bar.dev/80)
 
 ## Project
 
