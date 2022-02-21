@@ -10,8 +10,8 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <link rel="shortcut icon" href="/img/w2r-512.svg" />
-        <link rel="apple-touch-icon" href="/img/w2r-512.svg" />
+        <link rel="shortcut icon" type="img/x-icon" href="/img/w2r-40.ico" />
+        <link rel="apple-touch-icon" type="img/x-icon" href="/img/w2r-40.ico" />
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#ffebcd" />
         <link
