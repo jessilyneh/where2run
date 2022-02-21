@@ -3,13 +3,13 @@
   "short_name": "Where2run",
   "icons": [
     {
-      "src": "/img/pusheeen-192.png",
+      "src": "/img/w2r-192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "/img/pusheeen-512.png",
+      "src": "/img/w2r-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
