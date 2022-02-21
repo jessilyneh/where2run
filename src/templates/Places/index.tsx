@@ -35,9 +35,9 @@ export default function PlacesTemplate({ place }: PlaceTemplateProps) {
           place.description?.text ||
           "A guide to find places to run and tell your histories"
         }
-        canonical="https://www.canonical.ie/"
+        canonical="https://where2run.vercel.app/"
         openGraph={{
-          url: "https://www.canonical.ie/",
+          url: "https://where2run.vercel.app/",
           title: `${place.name} -Where2Run`,
           description:
             place.description?.text ||

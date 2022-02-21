@@ -12,9 +12,9 @@ export default function HomeTemplate({ places }: MapProps) {
       <NextSeo
         title="Where to Run"
         description="A guide to find places to run and tell your histories"
-        canonical="https://www.canonical.ie/"
+        canonical="https://where2run.vercel.app/"
         openGraph={{
-          url: "https://www.url.ie/a",
+          url: "https://where2run.vercel.app/",
           title: "Where to Run",
           description: "A guide to find places to run and tell your histories",
           images: [
