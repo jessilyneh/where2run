@@ -15,9 +15,9 @@ export type MapProps = {
   places?: Place[];
 };
 
-const MAPBOX_API_KEY = process.env.NEXT_PUBLIC_MAPBOX_API_KEY
-const MAPBOX_USERID = process.env.NEXT_PUBLIC_MAPBOX_USERID
-const MAPBOX_STYLEID = process.env.NEXT_PUBLIC_MAPBOX_STYLEID
+const MAPBOX_API_KEY = process.env.NEXT_PUBLIC_MAPBOX_API_KEY;
+const MAPBOX_USERID = process.env.NEXT_PUBLIC_MAPBOX_USERID;
+const MAPBOX_STYLEID = process.env.NEXT_PUBLIC_MAPBOX_STYLEID;
 
 const CustomTileLayer = () => {
   return MAPBOX_API_KEY ? (
@@ -32,7 +32,6 @@ const CustomTileLayer = () => {
     />
   );
 };
-
 
 const Map = ({ places }: MapProps) => {
   const router = useRouter();
