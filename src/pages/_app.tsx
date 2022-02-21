@@ -3,11 +3,13 @@ import Head from "next/head";
 import GlobalStyles from "styles/global";
 import NextNprogress from "nextjs-progressbar";
 
+import { DefaultSeo } from "next-seo";
+import SEO from "../../next-seo.config";
+
 function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Where2run</title>
         <link rel="shortcut icon" href="/img/pusheen-512.svg" />
         <link rel="apple-touch-icon" href="/img/pusheen-512.svg" />
         <link rel="manifest" href="/manifest.json" />
@@ -18,11 +20,8 @@ function App({ Component, pageProps }: AppProps) {
           integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
           crossOrigin=""
         />
-        <meta
-          name="description"
-          content="A guide to find places to run and tell your stories"
-        />
       </Head>
+      <DefaultSeo {...SEO} />
       <GlobalStyles />
       <NextNprogress
         color="#F7931E"

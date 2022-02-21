@@ -1,3 +1,4 @@
+import { NextSeo } from "next-seo";
 import Image from "next/image";
 import LinkWrapper from "components/LinkWrapper";
 import { WindowClose } from "@styled-icons/fa-solid/WindowClose";
@@ -15,6 +16,7 @@ export type PlaceTemplateProps = {
     name: string;
     description?: {
       html: string;
+      text: string;
     };
     gallery: imageProps[];
   };
@@ -27,6 +29,29 @@ export default function PlacesTemplate({ place }: PlaceTemplateProps) {
 
   return (
     <>
+      <NextSeo
+        title={`${place.name} -Where2Run`}
+        description={
+          place.description?.text ||
+          "A guide to find places to run and tell your histories"
+        }
+        canonical="https://www.canonical.ie/"
+        openGraph={{
+          url: "https://www.canonical.ie/",
+          title: `${place.name} -Where2Run`,
+          description:
+            place.description?.text ||
+            "A guide to find places to run and tell your histories",
+          images: [
+            {
+              url: place.gallery[0].url,
+              width: place.gallery[0].width,
+              height: place.gallery[0].height,
+              alt: `${place.name}`,
+            },
+          ],
+        }}
+      />
       <LinkWrapper href={"/"}>
         <WindowClose size={32} arial-label="initial page" />
       </LinkWrapper>
