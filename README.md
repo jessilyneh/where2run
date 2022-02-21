@@ -6,9 +6,13 @@ Where did you go running? what happened on the way?<br/>
 filling your map with photos and stories, or simply making a guide to the places you would like to run.</p>
 
 ### Project status (V1):
-![90%](https://progress-bar.dev/90)
+![Done](https://progress-bar.dev/100)
 
-## Project
+## Published Project
+
+```sh
+https://where2run.vercel.app/
+```
 
 ### Run project locally:
 
@@ -27,11 +31,11 @@ http://localhost:3000
 <details><summary><b> pages</b></summary>
 <p>
 
-- http://localhost:3000/terms-of-service
-- http://localhost:3000/about
-- http://localhost:3000/place/minhocao
-- http://localhost:3000/place/ega-marina
-- http://localhost:3000/place/maspalomas
+- https://where2run.vercel.app/terms-of-service
+- https://where2run.vercel.app/about
+- https://where2run.vercel.app/place/minhocao
+- https://where2run.vercel.app/place/ega-marina
+- https://where2run.vercel.app/place/maspalomas
 
 </p>
 </details>
