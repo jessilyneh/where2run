@@ -76,7 +76,7 @@ eslint src --fix
 ### Create a next-app using the boilerplate:
 
 ```sh
-npx create-next-app -e https://github.com/Jeefelix/boilerplate
+npx create-next-app -e https://github.com/jessilyneh/boilerplate
 ```
 
 ### Install Leaflet and React Leaflet
